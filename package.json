@@ -1,0 +1,24 @@
+{
+  "name": "random-str-msg-manc",
+  "version": "1.0.0",
+  "description": "Random String Messages personal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mColina77/random-str-msg-manc.git"
+  },
+  "keywords": [],
+  "author": "Mauricio Colina <mcolina77@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mColina77/random-str-msg-manc/issues"
+  },
+  "homepage": "https://github.com/mColina77/random-str-msg-manc#readme",
+  "bin": {
+    "random-str-msg-manc": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
